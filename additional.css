@@ -2236,7 +2236,7 @@ input ~ .error:after, textarea ~ .error:after, select ~ .error:after { position:
 
 .tc-light input ~ .error:after, .tc-light textarea ~ .error:after, .tc-light select ~ .error:after { border-right-color: #e6604a; }
 
-input::-webkit-input-placeholder, textarea::-webkit-input-placeholder { color: rgba(48, 80, 130, 0.6); }
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder { }
 
 .tc-light .bg-light input::-webkit-input-placeholder, .tc-light .bg-light-alt input::-webkit-input-placeholder, .tc-light .bg-white input::-webkit-input-placeholder, .tc-light .bg-light textarea::-webkit-input-placeholder, .tc-light .bg-light-alt textarea::-webkit-input-placeholder, .tc-light .bg-white textarea::-webkit-input-placeholder { color: rgba(48, 80, 130, 0.6); }
 
