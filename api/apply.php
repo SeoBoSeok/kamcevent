@@ -36,3 +36,4 @@ exit();
 
 	goto_url($_SERVER['HTTP_REFERER']);
 ?>
+<script>alert('참여해주셔서 감사합니다.')</script>
