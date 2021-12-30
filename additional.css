@@ -1625,7 +1625,7 @@ hr { position: relative; z-index: 5; }
 
 .btn-icon { min-width: 44px; padding-left: 6px; padding-right: 6px; }
 
-.btn-primary { background-color: #f42f54; border-color: #f42f54; }
+.btn-primary { background-color: #d0a861; border-color: #d0a861; }
 
 .btn-primary:hover, .btn-primary:focus { background-color: #f8aa38; border-color: #f8aa38; }
 
