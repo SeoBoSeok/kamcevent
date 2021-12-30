@@ -22,7 +22,8 @@ $message = $_POST['message'];
 	$return["username"] = $name;
 	//$return["sql"] = $sql;
 
-	echo json_encode( $return );
+	// echo json_encode( $return );
+  echo '이벤트 등록 완료';
 
 /*
 print_r($json);
