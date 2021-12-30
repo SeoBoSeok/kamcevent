@@ -34,6 +34,6 @@ exit();
 	// $subject = "=?UTF-8?B?".base64_encode("contact us 등록 알림")."?=";
 	// mail($email,$subject,$msg);
 
-	goto_url($_SERVER['HTTP_REFERER']);
+	// goto_url($_SERVER['HTTP_REFERER']);
 ?>
-<script>alert('참여해주셔서 감사합니다.')</script>
+<script>alert('참여해주셔서 감사합니다.'); window.location.href = '/';</script>
